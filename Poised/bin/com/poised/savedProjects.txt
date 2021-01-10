@@ -1,0 +1,3 @@
+ProjectTest; test; test; test; 10000.0; 9000.0; Wed Dec 23 00:00:00 CAT 2020; John; 012 807 4545; john@gmail.com; 22 B street; Vuyo; 012 878 5544; vuyo@gmail.com; 32 B street; Peter; 012 774 2224; peter@gmail.com; 25 B street
+ProjectC; Patio; 22 C street; 1234C; 5000.0; 900.0; Fri Dec 04 00:00:00 CAT 2020; Nick; 012 999 4444; nick@gmail.com; 25 C street; Happy; 012 478 5544; happy@gmail.com; 44 C Street; Ash; 012 444 5474; ash@gmail.com; 32 C Street
+ProjectD; Dog house; 22 D Street; 1234D; 1000.0; 200.0; Mon Oct 26 00:00:00 CAT 2020; Snopp Dogg; 012 807 4545; snopp@gmail.com; 25 D street; Romeer; 012 804 5554; roro@gmail.com; 44 D Street; Dr Dre; 012 454 8887; drdre@gmail.com; 21 D Street

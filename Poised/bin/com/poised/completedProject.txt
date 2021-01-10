@@ -1,0 +1,2 @@
+ProjectE; Doll house; 22 E street; 1234E; 1000.0; 900.0; Mon Nov 30 00:00:00 CAT 2020; Bhum; 012 807 4454; bhum@gmail.com; 19 E Street; NULL; 004 222 1111; d@gmail.com; ccc; Peach; 012 807 4445; prach@gmail.com; 44 E street; 30/10/2020 08:02:09
+ProjectA; Flat; 12 A street; 1234A; 14000.0; 14000.0; Thu Dec 03 00:00:00 CAT 2020; George; 012 807 6778; george@gmail.com; 22 A street; Karen; 012 807 4545; karen@gmail.com; 29 A street; Kushal; 012 807 6554; kushal@gmail.com; 24 A street; 30/10/2020 08:02:32
